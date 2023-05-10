@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/kj-test/static/css/main.f49dccd7.css",
+    "main.js": "/kj-test/static/js/main.c937fd0d.js",
+    "static/media/950.png": "/kj-test/static/media/950.00440dc254ed822d4aa2.png",
+    "static/media/ImageCard-2.png": "/kj-test/static/media/ImageCard-2.a8b6d3f80a500af3886a.png",
+    "static/media/ImageCard-3.png": "/kj-test/static/media/ImageCard-3.dd1fd8e895690386c574.png",
+    "static/media/ImageCard-1.png": "/kj-test/static/media/ImageCard-1.8ec43c4a45ca9484d2cf.png",
+    "static/media/Inter-Regular.woff": "/kj-test/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Frame 6.svg": "/kj-test/static/media/Frame 6.facbb953f7827a9474270486661ddc54.svg",
+    "static/media/tyme-bank-black.svg": "/kj-test/static/media/tyme-bank-black.3a3b695c5e90f47645e289281b452446.svg",
+    "static/media/spotify-black 1.svg": "/kj-test/static/media/spotify-black 1.977f80bf00ea5733f72ef72196cb34cb.svg",
+    "static/media/Frame 11.svg": "/kj-test/static/media/Frame 11.8783411862d3a8a45efe41f4eb19b9b9.svg",
+    "static/media/Frame 4.svg": "/kj-test/static/media/Frame 4.b5ac1b766d3cc420db5a7421104f3e37.svg",
+    "static/media/Frame 7.svg": "/kj-test/static/media/Frame 7.d452b9463d5c9dc0ea8ae0cf9c4a56a9.svg",
+    "static/media/Frame 8.svg": "/kj-test/static/media/Frame 8.9ebe7434ba0e28ac8312bcc198ee3413.svg",
+    "static/media/microsoft-black 1.svg": "/kj-test/static/media/microsoft-black 1.25c356dd17532844ba83eeff911b5f7e.svg",
+    "static/media/Frame 12.svg": "/kj-test/static/media/Frame 12.a4d6d0f886ab1d48e9e800d706cc3d7d.svg",
+    "static/media/distell-black 1.svg": "/kj-test/static/media/distell-black 1.657a5bae155db0d6bf318c718aadcc6c.svg",
+    "static/media/Frame 13.svg": "/kj-test/static/media/Frame 13.31326f955ef51467c0b80cd76ddd4426.svg",
+    "static/media/Frame 9.svg": "/kj-test/static/media/Frame 9.d8f81b4f972bf827d81d42671247a954.svg",
+    "static/media/logo KJD.svg": "/kj-test/static/media/logo KJD.a64718f0398e1f9e3bfbae71f1cb45bc.svg",
+    "static/media/visa-black .svg": "/kj-test/static/media/visa-black .186d48a601bd9432257876eb8e3da3b6.svg",
+    "static/media/Frame 10.svg": "/kj-test/static/media/Frame 10.de654cb762fe41b91ed04f0bbed2c5c7.svg",
+    "static/media/App Dev Icon.svg": "/kj-test/static/media/App Dev Icon.4d53de3c828648df256f5c75e3c94bfe.svg",
+    "static/media/block chain icon.svg": "/kj-test/static/media/block chain icon.e9739de1d732b50724d5886149ae2cb6.svg",
+    "static/media/Web Dev Icon.svg": "/kj-test/static/media/Web Dev Icon.e09d4507aa4e6280ba3802ccabc0fba1.svg",
+    "static/media/Frame 5.svg": "/kj-test/static/media/Frame 5.7425a01088768ec1be0f8a1fc1ec46ef.svg",
+    "static/media/UX Icon.svg": "/kj-test/static/media/UX Icon.64069248b4bf328ceb2f8e3337d80e0d.svg",
+    "index.html": "/kj-test/index.html",
+    "main.f49dccd7.css.map": "/kj-test/static/css/main.f49dccd7.css.map",
+    "main.c937fd0d.js.map": "/kj-test/static/js/main.c937fd0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f49dccd7.css",
+    "static/js/main.c937fd0d.js"
+  ]
+}
